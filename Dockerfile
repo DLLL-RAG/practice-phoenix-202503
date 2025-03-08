@@ -21,6 +21,9 @@ RUN pip install arize-phoenix-otel
 RUN pip install -q "arize-phoenix>=4.29.0"
 RUN pip install -q openai nest_asyncio 'httpx<0.28'
 
+RUN pip install duckdb datasets
+RUN pip install rouge tiktoken
+
 # =========
 
 USER jovyan

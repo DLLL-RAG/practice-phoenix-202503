@@ -35,6 +35,7 @@ services:
       #- TZ=${TZ}
       #- LANG=${LANG}
       - JUPYTER_TOKEN=password
+      - PHOENIX_HOST=phoenix
     ports:
       - "8888:8888"
 volumes:
