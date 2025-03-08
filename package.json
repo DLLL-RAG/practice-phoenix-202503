@@ -1,7 +1,8 @@
 {
   "scripts": {
-    "start": "./phoenix/startup.sh",
-    "start-app": "./app/startup.sh"
+    "start": "./startup.sh",
+    "bash": "./bash.sh",
+    "prune-network": "docker network prune -f"
   },
   "dependencies": {
     "axios": "0.27.2",
