@@ -18,6 +18,9 @@ RUN pip install arize-phoenix
 RUN pip install openinference-instrumentation-openai openai
 RUN pip install arize-phoenix-otel
 
+RUN pip install -q "arize-phoenix>=4.29.0"
+RUN pip install -q openai nest_asyncio 'httpx<0.28'
+
 # =========
 
 USER jovyan
