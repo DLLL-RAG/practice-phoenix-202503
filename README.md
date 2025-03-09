@@ -11,7 +11,7 @@
 
 # TODO
 
-- [x] 每個notebook都自己跑過一遍吧
+- [ ] 每個notebook都自己跑過一遍吧
 - [ ] 去看看每個notebook裡面的內容在講什麼
 - [ ] meeting教大家怎麼做
 - [ ] 額外1: 我需要上傳Excel檔案，我要用這個檔案來做為dataset
