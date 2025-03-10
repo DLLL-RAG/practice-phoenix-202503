@@ -1,6 +1,6 @@
 # practice-phoenix-202503
 
-有看到布丁的留言嗎？
+
 
 # How to start
 
