@@ -14,6 +14,10 @@
 - [X] 每個notebook都自己跑過一遍吧
 - [X] 去看看每個notebook裡面的內容在講什麼
 - [ ] meeting教大家怎麼做
+<<<<<<< HEAD
 - [ ] 額外1: 我需要上傳LibreOffice Calc的ods檔案(不要用Excel，還是改掉吧)，我要用這個檔案來做為dataset
+=======
+- [ ] 額外1: 我需要上傳Excel檔案，我要用這個檔案來做為dataset
+>>>>>>> b57b1aca065539513c6b986d82c96de298b28796
 - [ ] 額外2: 我需要嘗試各種的評估器
 - [ ] 額外3: 我需要自訂評估器 https://docs.arize.com/phoenix/evaluation/concepts-evals/building-your-own-evals
