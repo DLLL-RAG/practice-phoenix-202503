@@ -1,5 +1,7 @@
 # practice-phoenix-202503
 
+有看到布丁的留言嗎？
+
 # How to start
 
 1. Run `git clone https://github.com/pulipulichen/practice-phoenix-202503.git` to download the project. Then enter the project directory.
