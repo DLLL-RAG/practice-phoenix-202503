@@ -24,6 +24,7 @@ RUN pip install -q openai nest_asyncio 'httpx<0.28'
 RUN pip install duckdb datasets
 RUN pip install rouge tiktoken
 
+RUN pip install odfpy
 # =========
 
 USER jovyan

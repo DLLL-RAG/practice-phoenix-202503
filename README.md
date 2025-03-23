@@ -9,7 +9,7 @@
 3. Run command `docker compose up --build` or `docker-compose up --build`
 4. Open JupyterLab by `http://localhost:8888`. Login JupyterLab with password `password`.
 5. In JupyterLab, open the `/work/1.trace.ipynb` and run all cells.
-6. Open Arize Phoenix by `http://localhost:6006`. Enter the projects default and the trace log should be listed.
+6. Open Arize Phoenix by ``. Enter the projects default and the trace log should be listed.
 
 # TODO
 
@@ -17,5 +17,5 @@
 - [X] 去看看每個notebook裡面的內容在講什麼
 - [X] meeting教大家怎麼做
 - [ ] 額外1: 我需要上傳LibreOffice Calc的ods檔案(不要用Excel，還是改掉吧)，我要用這個檔案來做為dataset
-- [ ] 額外2: 我需要嘗試各種的評估器
+- [X] 額外2: 我需要嘗試各種的評估器
 - [ ] 額外3: 我需要自訂評估器 https://docs.arize.com/phoenix/evaluation/concepts-evals/building-your-own-evals
