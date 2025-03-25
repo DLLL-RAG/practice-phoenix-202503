@@ -9,7 +9,7 @@
 3. Run command `docker compose up --build` or `docker-compose up --build`
 4. Open JupyterLab by `http://localhost:8888`. Login JupyterLab with password `password`.
 5. In JupyterLab, open the `/work/1.trace.ipynb` and run all cells.
-6. Open Arize Phoenix by ``. Enter the projects default and the trace log should be listed.
+6. Open Arize Phoenix by `http://localhost:6006`. Enter the projects default and the trace log should be listed.
 
 # TODO
 
