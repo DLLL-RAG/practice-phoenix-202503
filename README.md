@@ -18,4 +18,4 @@
 - [X] meeting教大家怎麼做
 - [X] 額外1: 我需要上傳LibreOffice Calc的ods檔案(不要用Excel，還是改掉吧)，我要用這個檔案來做為dataset
 - [X] 額外2: 我需要嘗試各種的評估器
-- [ ] 額外3: 我需要自訂評估器 https://docs.arize.com/phoenix/evaluation/concepts-evals/building-your-own-evals
+- [X] 額外3: 我需要自訂評估器 https://docs.arize.com/phoenix/evaluation/concepts-evals/building-your-own-evals
