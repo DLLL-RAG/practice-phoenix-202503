@@ -14,7 +14,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # 需要把下面的內容重整為requirements.txt
-RUN pip install arize-phoenix>=9.0.0
+RUN pip install arize-phoenix>=8.12.0
 RUN pip install openinference-instrumentation-openai openai
 RUN pip install arize-phoenix-otel
 
