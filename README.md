@@ -23,6 +23,9 @@
 - [X] 額外5: 我需要將metadata欄位的資料套用在評估器的提示詞中，用來判斷幻覺問題
 - [X] 額外6: 我需要將自訂評估器的結果在JupyterLab中可以下載成一個ods檔
 - [X] 額外7: 我需要讓他解釋為什麼給出這個答案
-- [] 額外8: 我需要把解釋跟結果的欄位分開來，好加速檢索速度(看藥用#字號分前後，還是要用mark down語法請LLM存入資料表中然後把"結果"存在key，將"解釋"存入explain)
-- [] 額外8: 我需要用mark down語法讓LLM讀取問題時是找<Question></Question>裡面的內容，以免發生有人在input_message中輸入[Reference]，讓LLM在尋找reference時不會發生問題
-- [] 額外9: 潘老師(google colab資料前處理)
+- [] 額外8: 我需要把解釋跟結果的欄位分開來，好加速檢索速度(看要用#字號分前後，還是要用mark down語法請LLM存入資料表中然後把"結果"存在key，將"解釋"存入explain)
+- [] 額外9: 我需要用mark down語法讓LLM讀取問題時是找<Question></Question>裡面的內容，以免發生有人在input_message中輸入[Reference]，讓LLM在尋找reference時不會發生問題
+- [] 額外10: 潘老師(google colab資料前處理)
+- [] 額外11:準備小一點的測試資料集(3筆且要包含幻覺答案)
+- [] 額外12:把task跟evaluator分開寫
+- [] 額外13:給模型json輸出的範例格式&叫模型輸出json格式，再分別提取到資料表中
