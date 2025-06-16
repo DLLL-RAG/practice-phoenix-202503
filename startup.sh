@@ -2,4 +2,4 @@
 
 cd $(dirname "$0")
 
-docker-compose up --build
+sudo docker compose up --build
