@@ -25,6 +25,7 @@ RUN pip install duckdb datasets
 RUN pip install rouge tiktoken
 
 RUN pip install odfpy==1.4.1
+RUN pip install -q -U google-genai==1.20.0
 # =========
 
 USER jovyan
