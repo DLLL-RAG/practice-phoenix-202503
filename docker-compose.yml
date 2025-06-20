@@ -16,7 +16,7 @@ services:
       - PHOENIX_GRPC_PORT=4317
   db:
     image: postgres
-    restart: always
+    # restart: always
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
